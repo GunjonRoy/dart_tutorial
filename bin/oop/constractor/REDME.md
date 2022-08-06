@@ -15,3 +15,13 @@ factory Class_Name() {
 }
 }
 ```
+
+#We must follow some rules when using the factory constructor.
+
+#The return keyword is used.
+It does not have access to the this keyword.
+Return value
+A factory constructor can return a value from a cache or a sub-type instance.
+
+##Example
+The following code shows how to use the factory keyword in Dart:
